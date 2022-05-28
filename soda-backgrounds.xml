@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Bubbles</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-bubbles.png</filename>
+    <filename-dark>/usr/share/backgrounds/soda/soda-bg-bubbles-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#db2727</pcolor>
+    <scolor>#ffffff</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Logo Pattern</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-logo-pattern.png</filename>
+    <filename-dark>/usr/share/backgrounds/soda/soda-bg-logo-pattern-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#db2727</pcolor>
+    <scolor>#ffffff</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Speed</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-speed.png</filename>
+    <filename-dark>/usr/share/backgrounds/soda/soda-bg-speed-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#db2727</pcolor>
+    <scolor>#ffffff</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-waves.png</filename>
+    <filename-dark>/usr/share/backgrounds/soda/soda-bg-waves-dark.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#db2727</pcolor>
+    <scolor>#ffffff</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Default</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-waves-branding.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#db2727</pcolor>
+    <scolor>#ffffff</scolor>
+  </wallpaper>
+</wallpapers>

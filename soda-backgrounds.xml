@@ -38,6 +38,15 @@
     <scolor>#ffffff</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Gruvbox</name>
+    <filename>/usr/share/backgrounds/soda/soda-bg-gruvbox-light.png</filename>
+    <filename-dark>/usr/share/backgrounds/soda/soda-bg-gruvbox.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#282828</pcolor>
+    <scolor>#EBDBB2</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Default</name>
     <filename>/usr/share/backgrounds/soda/soda-bg-waves-branding.png</filename>
     <options>zoom</options>
